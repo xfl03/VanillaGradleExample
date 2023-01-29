@@ -7,4 +7,5 @@ A simple example for Minecraft Sponge Vanilla Gradle Plugin.
 [VanillaGradle/wiki](https://github.com/SpongePowered/VanillaGradle/wiki)
 
 ## License
-Fully copy left, feel free to use this repository.
+[The Unlicense](https://unlicense.org/)
+Feel free to use this repository in any way.
